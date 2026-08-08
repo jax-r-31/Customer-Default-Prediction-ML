@@ -120,7 +120,7 @@ Performance Metrics:
 Add your confusion matrix screenshot inside the **images** folder.
 
 ```markdown
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](../Customer-Default-Prediction-ML/images/confusion_matrix.png)
 ```
 
 ---
