@@ -81,7 +81,7 @@ customer-default-prediction/
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/customer-default-prediction.git
+git clone https://github.com/jax-r-31/customer-default-prediction.git
 ```
 
 Move into the project.
