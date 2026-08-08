@@ -1,0 +1,9 @@
+[project]
+name = "customer-default-prediction"
+version = "1.0.0"
+description = "Machine Learning model for predicting customer loan default using AdaBoost Classifier."
+authors = [
+    {name="Jay Rajput"}
+]
+requires-python = ">=3.10"
+
